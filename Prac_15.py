@@ -1,4 +1,9 @@
-a = [1,2,3]
-b = a
-b.append(2)
-print(a,b)
+# a = int(input("Entyer a number"))
+# i=0
+# while i<a:
+#     print(a+1)
+#     i+=1
+
+# name = input("Enter your name")
+# print(name)
+
