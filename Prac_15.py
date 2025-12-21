@@ -7,3 +7,6 @@
 # name = input("Enter your name")
 # print(name)
 
+r= 5
+for i in range(1, r+1):
+    print("*"*i)
