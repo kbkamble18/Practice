@@ -43,11 +43,11 @@ print(alice.name+" is "+alice.color+" in color.")
 bello.bark(3)
 
 alice.command("Sit")
-print("[Alice] : "+ alice.state)
+print("[ Alice ] : "+ alice.state)
 
 bello.command = ("no")
 
-print("[Bello]"+ bello.state)
+print("[ Bello ] : "+ bello.state)
 
 alice.command("Alice")
 
