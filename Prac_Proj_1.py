@@ -70,4 +70,3 @@ while True:
     n = input()
     if n == "no":
          break
-""""""
